@@ -22,12 +22,12 @@ public class App {
         lista[2] = new Circulo(4,5,2);
         
 
-        /* 
+        
         System.out.println("\n lista de circulos");
         for (int i=0; i<lista.length; i++ ){
             System.out.println(lista[i]);
         }
-        */
+        
 
 
         System.out.println("\n lista de circulos foreach");
